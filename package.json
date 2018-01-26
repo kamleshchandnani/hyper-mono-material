@@ -1,0 +1,27 @@
+{
+  "name": "hyper-mono-material",
+  "version": "1.0.0",
+  "description": "Elegant material theme with operator mono font",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamleshchandnani/hyper-mono-material.git"
+  },
+  "homepage": "https://github.com/kamleshchandnani/hyper-mono-material#readme",
+  "author": {
+    "name": "Kamlesh Chandnani",
+    "email": "kamlesh.chandnani@gmail.com"
+  },
+  "files": ["index.js"],
+  "keywords": [
+    "hyper",
+    "operator-mono",
+    "material",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "hyperterm",
+    "elegant"
+  ]
+}
